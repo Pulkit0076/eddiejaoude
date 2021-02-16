@@ -32,13 +32,33 @@
 
 
 ---
-
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+  <strong>Github Stats : </strong>
+</summary>
+<br/>
+  
 <p align="center">
+<a href="https://github.com/eddiejaoude">
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
   <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&count_private=true&theme=tokyonight" />
+</a>
 </p>
+</details>
+<br/>
 
+<h1></h1>
+<p align="center">
+      <code>
+        <img src="https://gitwar-jayant.herokuapp.com/badge?username=eddiejaoude&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57" alt="Github Profile Score">
+      </code>
+</p>
+<a href="https://github.com/eddiejaoude">
+  <img src="https://github-profile-trophy.vercel.app/?username=eddiejaoude&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh">
+</a>
 
+ ---
 <h4 align="center">Testimonials</h4>
 <h1 align="center">❝</h1>
 
